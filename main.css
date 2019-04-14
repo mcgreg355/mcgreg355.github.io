@@ -111,17 +111,19 @@ section.container .row {
 }
 
 #firstfav {
-  font-size:28px;
+  font-size:34px;
   font-weight: 700;
   color: #05591e;
   text-align: center;
+  font-family: Courier
 }
 
 #secondfav {
-  font-size:28px;
+  font-size:30px;
   font-weight: 700;
   color: #870628;
   text-align: center;
+  font-family: Times New Roman;
 }
 
 #thirdfav {
@@ -129,13 +131,15 @@ section.container .row {
   font-weight: 700;
   color: #a54208;
   text-align: center;
+  font-family: Palatino
 }
 
 #fourthfav {
-  font-size:28px;
+  font-size:26px;
   font-weight: 700;
   color: #23c0ef;
   text-align: center;
+  font-family: Comic Sans MS
 }
 
 #quotes {
@@ -146,7 +150,7 @@ section.container .row {
 
 #firstquote { 
 	color: #5d98f7;
-	font-size: 14px;
+	font-size: 18px;
 	font-family: Calibri;
 	text-align: left;
 }
@@ -154,14 +158,14 @@ section.container .row {
 #secondquote { 
 	color: #480dad;
 	font-size: 14px;
-	font-family: Calibri;
+	font-family: Arial;
 	text-align: left;
 }
 
 #thirdquote { 
 	color: #420320;
-	font-size:14px ;
-	font-family: Calibri;
+	font-size:12px ;
+	font-family: Helvetica;
 	text-align: left;
 }
 
